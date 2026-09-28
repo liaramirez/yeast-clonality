@@ -1,0 +1,7 @@
+sample,fastq_dir
+Lev_1,/home/ldpramirez/nanopore_data/fastq_pass/barcode01
+Lev_2,/home/ldpramirez/nanopore_data/fastq_pass/barcode02
+Lev_3,/home/ldpramirez/nanopore_data/fastq_pass/barcode03
+Lev_4,/home/ldpramirez/nanopore_data/fastq_pass/barcode04
+Lev_5,/home/ldpramirez/nanopore_data/fastq_pass/barcode05
+Lev_6,/home/ldpramirez/nanopore_data/fastq_pass/barcode06

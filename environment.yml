@@ -1,0 +1,10 @@
+name: yeast-clonality
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.9
+  - minimap2
+  - samtools
+  - bcftools>=1.20
+  - seqkit

@@ -1,0 +1,17 @@
+# Nextflow
+work/
+.nextflow/
+.nextflow.log*
+results*/
+*.html
+trace.txt*
+# data (never commit reads, BAMs or VCFs)
+*.bam
+*.bai
+*.vcf.gz
+*.fastq.gz
+*.fq.gz
+!tests/**/*.fastq.gz
+# misc
+__pycache__/
+.DS_Store

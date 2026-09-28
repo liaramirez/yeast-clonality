@@ -1,0 +1,4 @@
+sample,fastq_dir
+A,tests/fq_A
+B,tests/fq_B
+C,tests/fq_C
